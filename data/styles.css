@@ -10,6 +10,27 @@
   line-height:normal;
   text-transform:none;
 }
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
 ._24号字_最小说明文本，例如列表时间态、版权信息等） {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -22,7 +43,23 @@
 }
 .box_2 {
 }
+.horizontal_line {
+}
+.box_3 {
+}
+.ellipse {
+}
 ._图像 {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._标题_1 {
   font-family:'Arial Normal', 'Arial';
@@ -75,6 +112,8 @@
 }
 ._表单禁用 {
 }
+._流程形状 {
+}
 ._连接符 {
 }
 .marker {
@@ -90,16 +129,65 @@
   font-size:32px;
   text-align:left;
 }
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
 }
+.paragraph1 {
+  text-align:left;
+}
+.heading_11 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .shape {
 }
+._60号字_如金额展示、金额输入） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:30px;
+  text-align:left;
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
 .vertical_line {
+}
+.iconfont {
+  font-family:'iconfont Normal', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .flow_shape {
 }
 .box_1 {
+}
+._分割线 {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
